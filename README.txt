@@ -20,3 +20,5 @@ is set to 1 no there is no additional printing.
 An example HEAPinput.txt file is given. The ﬁrst line of the ﬁle contains an integer n, which indicates the
 number of array elements to be read in. The next n lines contain n integers, one integer per line. These
 integers are the key values of the n array elements, from the ﬁrst element to the nth element.
+
+The Makefile will create an executable named "run" and the program can be run by typing ./run.
